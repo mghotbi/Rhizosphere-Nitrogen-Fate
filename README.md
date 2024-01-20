@@ -14,8 +14,7 @@ Mitra Ghotbi 1, 2 *, Yakov Kuzyakov 3,4, Marjan Ghotbi 5, William R. Horwath 6
 ORCID ID 0000-0001-9185-9993, Web of Science ResearcherID: G-4323-2013
 
 
-![](Rhizosphere-nitrogen-fate/filename%20GA.png)
-![Graphical Abstract](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/main/Rhizosphere-nitrogen-fate/GA.png)
+![Graphical Abstract]([https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/main/Rhizosphere-nitrogen-fate/GA.png](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/GA.png))
 
 
 
