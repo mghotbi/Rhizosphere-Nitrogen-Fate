@@ -1,0 +1,145 @@
+sample-id,Genotype,N dosages,Inoculant,Growth stage,Rep
+NREC21_R6_1001_Inbred: B73 N: 0 IF: None,B73,N:0,None,R6,1
+NREC21_R6_1002_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,R6,2
+NREC21_R6_1003_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,R6,3
+NREC21_R6_1004_Inbred: B73 N: 30 IF: None,B73,N:30,None,R6,4
+NREC21_R6_1005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,R6,1
+NREC21_R6_1006_Inbred: B73 N: 60 IF: None,B73,N:67,None,R6,2
+NREC21_R6_1007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,R6,3
+NREC21_R6_1008_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,R6,4
+NREC21_R6_1009_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,R6,1
+NREC21_R6_2001_Inbred: B73 N: 60 IF: None,B73,N:67,None,R6,2
+NREC21_R6_2002_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,R6,3
+NREC21_R6_2003_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,R6,4
+NREC21_R6_2004_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,R6,1
+NREC21_R6_2005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,R6,2
+NREC21_R6_2006_Inbred: B73 N: 30 IF: None,B73,N:30,None,R6,3
+NREC21_R6_2007_Inbred: B73 N: 0 IF: None,B73,N:0,None,R6,4
+NREC21_R6_2008_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,R6,1
+NREC21_R6_2009_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,R6,2
+NREC21_R6_3001_Inbred: B73 N: 30 IF: None,B73,N:30,None,R6,3
+NREC21_R6_3002_Inbred: B73 N: 0 IF: None,B73,N:0,None,R6,4
+NREC21_R6_3003_Inbred: B73 N: 60 IF: None,B73,N:67,None,R6,1
+NREC21_R6_3004_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,R6,2
+NREC21_R6_3005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,R6,3
+NREC21_R6_3006_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,R6,4
+NREC21_R6_3007_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,R6,1
+NREC21_R6_3008_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,R6,2
+NREC21_R6_3009_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,R6,3
+NREC21_R6_4001_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,R6,4
+NREC21_R6_4002_Inbred: B73 N: 60 IF: None,B73,N:67,None,R6,1
+NREC21_R6_4003_Inbred: B73 N: 0 IF: None,B73,N:0,None,R6,2
+NREC21_R6_4004_Inbred: B73 N: 30 IF: None,B73,N:30,None,R6,3
+NREC21_R6_4005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,R6,4
+NREC21_R6_4006_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,R6,1
+NREC21_R6_4007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,R6,2
+NREC21_R6_4008_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,R6,3
+NREC21_R6_4009_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,R6,4
+NREC21_S_1001_Inbred: B73 N: 0 IF: None,B73,N:0,None,S,1
+NREC21_S_1002_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,S,2
+NREC21_S_1003_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,S,3
+NREC21_S_1004_Inbred: B73 N: 30 IF: None,B73,N:30,None,S,4
+NREC21_S_1005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,S,1
+NREC21_S_1006_Inbred: B73 N: 60 IF: None,B73,N:67,None,S,2
+NREC21_S_1007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,S,3
+NREC21_S_1008_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,S,4
+NREC21_S_1009_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,S,1
+NREC21_S_2001_Inbred: B73 N: 60 IF: None,B73,N:67,None,S,2
+NREC21_S_2002_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,S,3
+NREC21_S_2003_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,S,4
+NREC21_S_2004_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,S,1
+NREC21_S_2005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,S,2
+NREC21_S_2006_Inbred: B73 N: 30 IF: None,B73,N:30,None,S,3
+NREC21_S_2007_Inbred: B73 N: 0 IF: None,B73,N:0,None,S,4
+NREC21_S_2008_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,S,1
+NREC21_S_2009_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,S,2
+NREC21_S_3001_Inbred: B73 N: 30 IF: None,B73,N:30,None,S,3
+NREC21_S_3002_Inbred: B73 N: 0 IF: None,B73,N:0,None,S,4
+NREC21_S_3003_Inbred: B73 N: 60 IF: None,B73,N:67,None,S,1
+NREC21_S_3004_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,S,2
+NREC21_S_3005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,S,3
+NREC21_S_3006_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,S,4
+NREC21_S_3007_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,S,1
+NREC21_S_3008_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,S,2
+NREC21_S_3009_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,S,3
+NREC21_S_4001_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,S,4
+NREC21_S_4002_Inbred: B73 N: 60 IF: None,B73,N:67,None,S,1
+NREC21_S_4003_Inbred: B73 N: 0 IF: None,B73,N:0,None,S,2
+NREC21_S_4004_Inbred: B73 N: 30 IF: None,B73,N:30,None,S,3
+NREC21_S_4005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,S,4
+NREC21_S_4006_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,S,1
+NREC21_S_4007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,S,2
+NREC21_S_4008_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,S,3
+NREC21_S_4009_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,S,4
+NREC21_V12_1001_Inbred: B73 N: 0 IF: None,B73,N:0,None,V12,1
+NREC21_V12_1002_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V12,2
+NREC21_V12_1003_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V12,3
+NREC21_V12_1004_Inbred: B73 N: 30 IF: None,B73,N:30,None,V12,4
+NREC21_V12_1005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V12,1
+NREC21_V12_1006_Inbred: B73 N: 60 IF: None,B73,N:67,None,V12,2
+NREC21_V12_1007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V12,3
+NREC21_V12_1008_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V12,4
+NREC21_V12_1009_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V12,1
+NREC21_V12_2001_Inbred: B73 N: 60 IF: None,B73,N:67,None,V12,2
+NREC21_V12_2002_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V12,3
+NREC21_V12_2003_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V12,4
+NREC21_V12_2004_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V12,1
+NREC21_V12_2005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V12,2
+NREC21_V12_2006_Inbred: B73 N: 30 IF: None,B73,N:30,None,V12,3
+NREC21_V12_2007_Inbred: B73 N: 0 IF: None,B73,N:0,None,V12,4
+NREC21_V12_2008_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V12,1
+NREC21_V12_2009_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V12,2
+NREC21_V12_3001_Inbred: B73 N: 30 IF: None,B73,N:30,None,V12,3
+NREC21_V12_3002_Inbred: B73 N: 0 IF: None,B73,N:0,None,V12,4
+NREC21_V12_3003_Inbred: B73 N: 60 IF: None,B73,N:67,None,V12,1
+NREC21_V12_3004_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V12,2
+NREC21_V12_3005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V12,3
+NREC21_V12_3006_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V12,4
+NREC21_V12_3007_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V12,1
+NREC21_V12_3008_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V12,2
+NREC21_V12_3009_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V12,3
+NREC21_V12_4001_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V12,4
+NREC21_V12_4002_Inbred: B73 N: 60 IF: None,B73,N:67,None,V12,1
+NREC21_V12_4003_Inbred: B73 N: 0 IF: None,B73,N:0,None,V12,2
+NREC21_V12_4004_Inbred: B73 N: 30 IF: None,B73,N:30,None,V12,3
+NREC21_V12_4005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V12,4
+NREC21_V12_4006_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V12,1
+NREC21_V12_4007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V12,2
+NREC21_V12_4008_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V12,3
+NREC21_V12_4009_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V12,4
+NREC21_V5_1001_Inbred: B73 N: 0 IF: None,B73,N:0,None,V5,1
+NREC21_V5_1002_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V5,2
+NREC21_V5_1003_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V5,3
+NREC21_V5_1004_Inbred: B73 N: 30 IF: None,B73,N:30,None,V5,4
+NREC21_V5_1005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V5,1
+NREC21_V5_1006_Inbred: B73 N: 60 IF: None,B73,N:67,None,V5,2
+NREC21_V5_1007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V5,3
+NREC21_V5_1008_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V5,4
+NREC21_V5_1009_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V5,1
+NREC21_V5_2001_Inbred: B73 N: 60 IF: None,B73,N:67,None,V5,2
+NREC21_V5_2002_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V5,3
+NREC21_V5_2003_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V5,4
+NREC21_V5_2004_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V5,1
+NREC21_V5_2005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V5,2
+NREC21_V5_2006_Inbred: B73 N: 30 IF: None,B73,N:30,None,V5,3
+NREC21_V5_2007_Inbred: B73 N: 0 IF: None,B73,N:0,None,V5,4
+NREC21_V5_2008_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V5,1
+NREC21_V5_2009_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V5,2
+NREC21_V5_3001_Inbred: B73 N: 30 IF: None,B73,N:30,None,V5,3
+NREC21_V5_3002_Inbred: B73 N: 0 IF: None,B73,N:0,None,V5,4
+NREC21_V5_3003_Inbred: B73 N: 60 IF: None,B73,N:67,None,V5,1
+NREC21_V5_3004_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V5,2
+NREC21_V5_3005_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V5,3
+NREC21_V5_3006_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V5,4
+NREC21_V5_3007_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V5,1
+NREC21_V5_3008_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V5,2
+NREC21_V5_3009_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V5,3
+NREC21_V5_4001_Inbred: B73 N: 0 IF: Proven,B73,N:0,Proven,V5,4
+NREC21_V5_4002_Inbred: B73 N: 60 IF: None,B73,N:67,None,V5,1
+NREC21_V5_4003_Inbred: B73 N: 0 IF: None,B73,N:0,None,V5,2
+NREC21_V5_4004_Inbred: B73 N: 30 IF: None,B73,N:30,None,V5,3
+NREC21_V5_4005_Inbred: B73 N: 30 IF: Proven,B73,N:30,Proven,V5,4
+NREC21_V5_4006_Inbred: BNI NIL N: 0 IF: None,NIL 1,N:0,None,V5,1
+NREC21_V5_4007_Inbred: BNI NIL N: 60 IF: None,NIL 1,N:67,None,V5,2
+NREC21_V5_4008_Inbred: BNI NIL N: 60 IF: Proven,NIL 1,N:67,Proven,V5,3
+NREC21_V5_4009_Inbred: B73 N: 60 IF: Proven,B73,N:67,Proven,V5,4
