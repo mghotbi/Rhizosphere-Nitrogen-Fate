@@ -15,7 +15,7 @@ ORCID ID 0000-0001-9185-9993, Web of Science ResearcherID: G-4323-2013
 
 
 ![](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/GA.png)
-![Graphical Abstract](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/raw/Rhizosphere-nitrogen-fate/GA.png)
+
 
 
 Abstract
