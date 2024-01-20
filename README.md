@@ -1,23 +1,21 @@
 # Rhizosphere-nitrogen-fate-
 Management and rhizosphere microbial associations modulate genetic-driven nitrogen fate 
 
-
-Mitra Ghotbi 1, 2 *, Logan Woodward 3, Yakov Kuzyakov 4,5, Marjan Ghotbi 6, William R. Horwath 7, Fred Below 3
+Mitra Ghotbi 1, 2 *, Yakov Kuzyakov 3,4, Marjan Ghotbi 5, William R. Horwath 6
 
 1 Department of Natural Resources & Environmental Sciences, University of Illinois at Urbana-Champaign, IL, USA
 2 Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA 
-3 Department of Crop Sciences, University of Illinois at Urbana-Champaign, IL, USA
-4 Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
-5 Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
-6 GEOMAR Helmholtz Centre for Ocean Research at Kiel, Germany
-7 Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
+3 Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
+4 Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
+5 GEOMAR Helmholtz Centre for Ocean Research at Kiel, Germany
+6 Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
 
-*Corresponding author: Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA. 
-Phone: +1 313 707 6077, mitra.ghotbi@mtsu.edu & *mitra.ghotbi@gmail.com*
-ORCID ID 0000-0001-9185-9993, 
-Web of Science ResearcherID: G-4323-2013
+*Corresponding author: Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA. Phone: +1 313 707 6077, mitra.ghotbi@mtsu.edu
+ORCID ID 0000-0001-9185-9993, Web of Science ResearcherID: G-4323-2013
 
-![Graphical Abstract](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/GA.png)
+
+![](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/GA.png)
+![Graphical Abstract](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/raw/Rhizosphere-nitrogen-fate/GA.png)
 
 
 Abstract
