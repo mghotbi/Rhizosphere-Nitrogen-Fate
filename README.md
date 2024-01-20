@@ -13,7 +13,8 @@ Mitra Ghotbi 1, 2 *, Yakov Kuzyakov 3,4, Marjan Ghotbi 5, William R. Horwath 6
 *Corresponding author: Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA. Phone: +1 313 707 6077, mitra.ghotbi@mtsu.edu
 ORCID ID 0000-0001-9185-9993, Web of Science ResearcherID: G-4323-2013
 
-![](blob/Rhizosphere-nitrogen-fate/GA.pnge/%GA.png)
+![Graphical Abstract](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/main/Rhizosphere-nitrogen-fate/GA.png)
+
 
 
 
