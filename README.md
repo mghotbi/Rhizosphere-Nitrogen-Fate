@@ -9,21 +9,21 @@ Mitra Ghotbi<sup>1,2*</sup>, Yakov Kuzyakov<sup>3,4</sup>, Marjan Ghotbi<sup>5</
 
 **Mitra Ghotbi**
 
-<sup>1. Department of Natural Resources & Environmental Sciences, University of Illinois at Urbana-Champaign, IL, USA
-<sup>2. Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA
+<sup>1</sup>. Department of Natural Resources & Environmental Sciences, University of Illinois at Urbana-Champaign, IL, USA
+<sup>2</sup>. Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA
 
 **Yakov Kuzyakov**
 
-<sup>3. Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
-<sup>4. Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
+<sup>3</sup>. Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
+<sup>4</sup>. Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
 
 **Marjan Ghotbi**
 
-5. GEOMAR Helmholtz Centre for Ocean Research at Kiel, Germany
+<sup>5</sup>. GEOMAR Helmholtz Centre for Ocean Research at Kiel, Germany
 
 **William R. Horwath**
 
-6. Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
+<sup>6</sup>. Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
 
 **Corresponding author:**
 - Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA.
