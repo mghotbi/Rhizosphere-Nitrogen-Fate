@@ -49,37 +49,37 @@ Keywords: phenotype, nitrification, near-isogenic lines, biological nitrificatio
 
 The R codes relevant to each figure have been published here to assist readers in navigating and reproducing them easily.
 
-
-#prerequisites
-#Install packages
+# Prerequisites: Ensure that the required packages are installed and loaded.
 
 suppressPackageStartupMessages({
-library(reshape2)
-library(fantaxtic)
-library(igraph)
-library(microbiome)
-library(ggnet)
-library(microbiomeutilities)
-library(intergraph)
-library(network)
-library(SpiecEasi) 
-library(microbiome)
-library(data.table)
-library(decontam)
-library(ggtext)
-library(dplyr)
-library(devtools)
-library(dada2)
-library(ggplot2)
-library(phyloseq)
-library(vegan)
-library(ggpubr)
-library(agridat)
-library(lme4)
-library(rstatix)
-library(emmeans)
-library(ape)
-library(microbiomeMarker)
-library(lmerTest)})
+  library(reshape2)
+  library(fantaxtic)
+  library(igraph)
+  library(microbiome)
+  library(ggnet)
+  library(microbiomeutilities)
+  library(intergraph)
+  library(network)
+  library(SpiecEasi)
+  library(microbiome)
+  library(data.table)
+  library(decontam)
+  library(ggtext)
+  library(dplyr)
+  library(devtools)
+  library(dada2)
+  library(ggplot2)
+  library(phyloseq)
+  library(vegan)
+  library(ggpubr)
+  library(agridat)
+  library(lme4)
+  library(rstatix)
+  library(emmeans)
+  library(ape)
+  library(microbiomeMarker)
+  library(lmerTest)
+})
+
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate">Rhizosphere-nitrogen-fate</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/mitra-ghotbi-78b34030/">Mitra Ghotbi</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
