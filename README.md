@@ -48,7 +48,9 @@ Keywords: phenotype, nitrification, near-isogenic lines, biological nitrificatio
 
 
 
-The R codes relevant to each figure have been published here to assist readers in navigating and reproducing them easily.
+**The R codes relevant to each figure have been published here to assist readers in navigating and reproducing them easily.**
+
+
 
 # Prerequisites: Ensure that the required packages are installed and loaded.
 
