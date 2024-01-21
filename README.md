@@ -9,13 +9,13 @@ Mitra Ghotbi<sup>1,2*</sup>, Yakov Kuzyakov<sup>3,4</sup>, Marjan Ghotbi<sup>5</
 
 **Mitra Ghotbi**
 
-1. Department of Natural Resources & Environmental Sciences, University of Illinois at Urbana-Champaign, IL, USA
-2. Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA
+<sup>1. Department of Natural Resources & Environmental Sciences, University of Illinois at Urbana-Champaign, IL, USA
+<sup>2. Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA
 
 **Yakov Kuzyakov**
 
-3. Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
-4. Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
+<sup>3. Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
+<sup>4. Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
 
 **Marjan Ghotbi**
 
