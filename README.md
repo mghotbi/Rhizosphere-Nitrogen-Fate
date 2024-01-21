@@ -3,15 +3,29 @@ Management and rhizosphere microbial associations modulate genetic-driven nitrog
 
 Mitra Ghotbi 1, 2 *, Yakov Kuzyakov 3,4, Marjan Ghotbi 5, William R. Horwath 6
 
-1 Department of Natural Resources & Environmental Sciences, University of Illinois at Urbana-Champaign, IL, USA
-2 Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA 
-3 Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
-4 Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
-5 GEOMAR Helmholtz Centre for Ocean Research at Kiel, Germany
-6 Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
+**Affiliations:**
 
-*Corresponding author: Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA. Phone: +1 313 707 6077, mitra.ghotbi@mtsu.edu
-ORCID ID 0000-0001-9185-9993, Web of Science ResearcherID: G-4323-2013
+1. Mitra Ghotbi
+   - Department of Natural Resources & Environmental Sciences, University of Illinois at Urbana-Champaign, IL, USA
+   - Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA
+
+2. Yakov Kuzyakov
+   - Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
+   - Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
+
+3. Marjan Ghotbi
+   - GEOMAR Helmholtz Centre for Ocean Research at Kiel, Germany
+
+4. William R. Horwath
+   - Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
+
+*Corresponding author:* 
+- Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA.
+  - Phone: +1 313 707 6077
+  - Email: mitra.ghotbi@mtsu.edu
+  - ORCID ID: [0000-0001-9185-9993](https://orcid.org/0000-0001-9185-9993)
+  - Web of Science ResearcherID: [G-4323-2013](https://publons.com/researcher/1595120/mitra-ghotbi/)
+
 
 ![Graphical Abstract](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/raw/Rhizosphere-nitrogen-fate/GA.png)
 
