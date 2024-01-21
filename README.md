@@ -56,7 +56,6 @@ Keywords: phenotype, nitrification, near-isogenic lines, biological nitrificatio
 
 suppressPackageStartupMessages({
   library(reshape2)
-  library(fantaxtic)
   library(igraph)
   library(microbiome)
   library(ggnet)
@@ -80,6 +79,7 @@ suppressPackageStartupMessages({
   library(rstatix)
   library(emmeans)
   library(ape)
+  library(fantaxtic)
   library(microbiomeMarker)
   library(lmerTest)
 })
