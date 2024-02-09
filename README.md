@@ -1,4 +1,4 @@
-# Rhizosphere-nitrogen-fate-
+# Rhizosphere-nitrogen-fate
 
 **Management and rhizosphere microbial associations modulate genetic-driven nitrogen fate**
 
