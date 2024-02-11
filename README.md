@@ -78,7 +78,6 @@ suppressPackageStartupMessages({
   library(rstatix)
   library(emmeans)
   library(ape)
-  library(fantaxtic)
   library(microbiomeMarker)
   library(lmerTest)
 })
