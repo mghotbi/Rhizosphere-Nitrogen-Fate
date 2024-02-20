@@ -32,7 +32,6 @@ Mitra Ghotbi<sup> 1,2*</sup>, Marjan Ghotbi<sup> 3</sup>, William R. Horwath<sup
 
 **Corresponding author:**
 - Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA.
-  - Phone: +1 313 707 6077
   - Email: mitra.ghotbi@mtsu.edu
   - ORCID ID: [0000-0001-9185-9993](https://orcid.org/0000-0001-9185-9993)
   - Web of Science ResearcherID: [G-4323-2013](https://publons.com/researcher/G-4323-2013/)
