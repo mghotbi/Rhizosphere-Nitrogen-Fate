@@ -12,7 +12,7 @@ VT_N0 <- subset_samples(physeq, Growth.stage == "VT" | N.dosages == "N:0" | Inoc
 mm_lefse <- run_lefse(
   VT_N0,
   wilcoxon_cutoff = 0.01,
-  group = "DIAGNOSIS",
+  group = "Genotype",
   kw_cutoff = 0.01,
   multigrp_strat = TRUE,
   lda_cutoff = 4
