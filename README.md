@@ -2,7 +2,7 @@
 
 **Management and rhizosphere microbial associations modulate genetic-driven nitrogen fate**
 
-Mitra Ghotbi<sup> 1,2*</sup>, Marjan Ghotbi<sup> 3</sup>, William R. Horwath<sup> 4</sup>, Yakov Kuzyakov<sup> 5,6</sup>
+Mitra Ghotbi<sup> 1,2*</sup>, Marjan Ghotbi<sup> 3</sup>, Yakov Kuzyakov<sup> 4,5</sup>, William R. Horwath<sup> 6</sup>,
 
 **Affiliations:**
 
@@ -18,17 +18,17 @@ Mitra Ghotbi<sup> 1,2*</sup>, Marjan Ghotbi<sup> 3</sup>, William R. Horwath<sup
 <sup>3</sup> GEOMAR Helmholtz Centre for Ocean Research at Kiel, Germany
 
 
-**William R. Horwath**
-
-<sup>4</sup> Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
-
-
 **Yakov Kuzyakov**
 
-<sup>5</sup> Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
+<sup>4</sup> Department of Soil Science of Temperate Ecosystems and Department of Agricultural Soil Science, Georg-August-University of Göttingen at Göttingen, Germany
 
 
-<sup>6</sup> Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
+<sup>5</sup> Peoples Friendship University of Russia (RUDN University), 117198 Moscow, Russia
+
+**William R. Horwath**
+
+<sup>6</sup> Plant and Environmental Sciences Building, Department of Land, Air & Water Resources, University of California Davis, at Davis, CA, USA
+
 
 **Corresponding author:**
 - Dr. Mitra Ghotbi, Department of Biology, Middle Tennessee State University at Murfreesboro, TN, USA.
@@ -44,10 +44,8 @@ Mitra Ghotbi<sup> 1,2*</sup>, Marjan Ghotbi<sup> 3</sup>, William R. Horwath<sup
 
 Abstract
 
+The interplay between plant genotype and nutrient management affects rhizodeposition, which in turn affects the rhizosphere-microbiome and microbe-mediated functions. Substituting mineral nitrogen (N) with an N-fixing inoculant reduces reliance on N fertilizer while supplying N to crops. We assessed the efficacy of integrating teosinte-maize near-isogenic lines (NIL 1 and NIL 2) with the biological nitrification inhibition (BNI) phenotype into management. This involved synthesizing insights from amplicon sequencing data and evaluating nitrification rates and maize N use efficiency. Management strategies included mineral N inputs (0 and 67 kg ha⁻¹) with and without an N-fixing inoculant. Nitrification rate in the maize rhizosphere was interactively mediated by genotype and management strategy across plant development stages (p= 0.01). The nitrification rate was decoupled from the nitrifiers' population size. The increase in N level, irrespective of resources, triggered the BNI capacity of NILs, facilitated by rhizosphere priming, the recruitment of competent microbes, and shifts in microbial associations. Despite NIL 2 having higher N content (72.3 kg ha⁻¹) compared to NIL 1 (65.0 kg ha⁻¹), similar nitrification rates in their rhizosphere suggest diverse N retention strategies. The superior N uptake of NIL 2, characterized by the presence of keystone taxa such as Archangium (bacteria) and Trichoderma (fungi), coincided with high inter-module connectivity in response to elevated N levels. This can be attributed to a broader niche adaptation within NIL 2's rhizosphere and possible metabolic synergy within this microhabitat. BNI-NILs reduced N loss, yet the extent of reduction varied with genotype and management, underscoring the importance of genotype-specific approaches when integrating BNI into agroecosystems.
 
-The interplay between plant genotype and nutrient management influences rhizodeposition, modulating the rhizosphere-microbiome and microbe-mediated functions. Substituting mineral nitrogen (N) with an N-fixing inoculant reduces reliance on N fertilizer and mitigates environmental detriments while supplying N to crops. We explored how teosinte-maize near-isogenic lines (NIL 1 and NIL 2) with the biological nitrification inhibition (BNI) phenotype respond to management strategies, including mineral N input (0 and 67 kg ha-1) with and without an N-fixing inoculant. Using 16S rRNA, ITS2 amplicon sequencing, nitrification rate measurements, and assessments of maize N uptake, partitioning, and yield, we aimed to compare rhizosphere N retention efficiency between BNI-NILs and B73 inbred maize (lacking BNI). The nitrification rate in maize rhizosphere was interactively mediated by genotype and management strategies. Elevated N levels triggered BNI capacity in NILs, potentially by rhizosphere priming, competent microbes’ recruitment, and microbial association dysbiosis. Despite NIL 2 having higher N content (72.3 kg ha⁻¹) than NIL 1 (65.0 kg ha⁻¹) and NIL 1 having higher grain N (8.4%) than NIL 2 (7.8%), similar nitrification rates in their rhizosphere suggest their diverse N retention strategies. NIL 2's superior N uptake, with Archangium and Trichoderma as its keystone taxa, elevated among-module-connectivity in response to high N, can imply broad niche compliance and potential metabolic synergy in its rhizosphere. NILs can preserve rhizosphere N by reducing nitrification, increasing N uptake and use efficiency, and reshaping microbial associations. Yet, their efficacy fluctuated with management across growth stages, underscoring the necessity of genotype-specific approaches for successful BNI integration at the environmental scale.
-
- 
 Keywords: phenotype, nitrification, near-isogenic lines, biological nitrification inhibition, plant nitrogen uptake, plant-microbe association
 
 
