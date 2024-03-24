@@ -38,7 +38,7 @@ Mitra Ghotbi<sup> 1,2*</sup>, Marjan Ghotbi<sup> 3</sup>, Yakov Kuzyakov<sup> 4,
 
 
 
-![Graphical Abstract](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/Graphical%20Abstract.png)
+![Graphical Abstract]([https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/Graphical%20Abstract.png](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/GA.3.24.png))
 
 
 
