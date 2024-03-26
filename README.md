@@ -59,14 +59,14 @@ Keywords: phenotype, nitrification, near-isogenic lines, biological nitrificatio
 
 
 
-reqpkg = c("edgeR", "PoiClaClu","microbiome", "phyloseq","DESeq2", "foreach", "doParallel", 
-           "plyr", "reshape2", "ggplot2", "grid","vegan", "scales", "cluster","ape", "dplyr",
+reqpkg = c("phyloseq","vegan","edgeR", "PoiClaClu","microbiome", "DESeq2", "foreach", "doParallel", 
+           "plyr", "reshape2", "grid", "scales", "cluster","ape", "dplyr",
            "igraph", "ggnet", "microbiomeutilities", "intergraph", "network", "SpiecEasi",
-           "data.table", "decontam", "ggtext", "devtools", "dada2", "ggplot2", "phyloseq",
-           "vegan", "ggpubr", "agridat", "lme4", "rstatix", "emmeans", "microbiomeMarker", 
-           "lmerTest")
+           "data.table", "decontam", "ggtext", "devtools", "dada2", "ggplot2", "ggpubr",
+           "agridat", "lme4", "rstatix", "emmeans", "microbiomeMarker", "lmerTest")
 
 # Check against installed packages:
+
 inpkg = installed.packages()[, "Package"]
 neededpkg = reqpkg[!reqpkg %in% inpkg]
 
