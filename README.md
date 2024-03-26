@@ -79,7 +79,7 @@ if (length(neededpkg) > 0) {
   cat("All required packages are already installed.\n")
 }
 
-# Load the required packages
+# Load the required packages:
 cat("Loading required packages...\n")
 invisible(lapply(reqpkg, library, character.only = TRUE))
 cat("Packages loaded successfully.\n")
