@@ -82,7 +82,7 @@ if (length(neededpkg) > 0) {
 # Load the required packages:
 cat("Loading required packages...\n")
 invisible(lapply(reqpkg, library, character.only = TRUE))
-cat("Packages loaded successfully.\n")
+cat("Packages loaded successfully\n :) ")
 
 
 
