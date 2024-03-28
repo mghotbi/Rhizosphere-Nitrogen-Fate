@@ -17,7 +17,7 @@ create_combined_plot <- function(subsetted_data, title, y_label) {
   return(combined_plot)
 }
 
-# Filter out data points with N.dosages as "N:34"
+# we don't need N.dosages at level=34  "N:34"
 PotentialN22_N67_3 <- PotentialN22_N67_3 %>% 
   filter(N.dosages != "N:34")
 
