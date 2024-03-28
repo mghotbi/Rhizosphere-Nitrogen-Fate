@@ -24,19 +24,36 @@ nit_VT <- subset_samples(Nitrifiers.tax22, Growth.stages == "VT")
 
 # Using glom function for clean-up
 nit.glom22_V8 <- tax_glom(nit_V8, taxrank = "Genus")
+nit.glom22_V8_1 <- prune_taxa(taxa_sums(nit.glom22_V8) > 0, nit.glom22_V8)
+# Get top 20 Genus
+Genus10 <- names(sort(taxa_sums(nit.glom22_V8_1), TRUE)[1:20])
+top_v5 <- prune_taxa(Genus10, nit.glom22_V8_C)
 
-# Re-introducing the factors (independent variables)
-sample_data(nit.glom22_V8)$N.dosage <- factor(sample_data(physeq22sum)$N.dosage, levels = c("N:0", "N:67"))
-sample_data(nit.glom22_V8)$Genotype <- factor(sample_data(physeq22sum)$Genotype, levels = c("B73", "NIL 1", "NIL 2"))
-sample_data(nit.glom22_V8)$Inoculant <- factor(sample_data(physeq22sum)$Inoculant, levels = c("None", "Proven"))
+# reintroduce factros
+sample_data(top_v5)$Growth.stage <- factor(sample_data(physeq_rel22)$Growth.stage, levels = c("V8", "VT"))
+sample_data(top_v5)$N.dosage <- factor(sample_data(physeq_rel22)$N.dosage, levels = c("N:0", "N:67"))
+sample_data(top_v5)$Genotype <- factor(sample_data(physeq_rel22)$Genotype, levels = c("B73", "NIL 1", "NIL 2"))
+sample_data(top_v5)$Inoculant <- factor(sample_data(physeq_rel22)$Inoculant, levels = c("None", "Proven"))
+
+                                        
+# Function to plot bar charts
+plot_bar_chart <- function(data, stage) {
+  p <- plot_bar(data, x = "Genotype", fill = "Genus") +
+    scale_fill_manual(values = MG) +
+    theme(legend.position = "bottom",
+          strip.text.x = element_text(family = "Times New Roman", size = 12, color = "black", face = "bold")) +
+    labs(x = "", y = "Relative abundance") +
+    facet_grid(cols = vars(paste(Inoculant, N.dosages, sep = "_")), scales = "free_y", switch = 'x') +
+    ggtitle(paste("Fungi abundance at", stage, "growth stage")) +
+    mytheme
+  return(p)
+}
 
 
+# Plotting
+plot_v8 <- plot_bar_chart(top_v5_v8, stage = "V8")
+plot_vt <- plot_bar_chart(top_v5_vt, stage = "VT")
 
-e <- plot_bar(nit.glom22_V8, x = "Genotype", fill = "Genus") +
-  scale_fill_manual(values = MG) +
-  theme(legend.position = "bottom", strip.text.x = element_text(family = "Times New Roman", size = 12, color = "black", face = "bold"), strip.text.y = element_text(family = "Times New Roman", size = 12, color = "black", face = "bold"), strip.background = element_rect(colour = "black", fill = "gray98")) +
-  guides(fill = guide_legend(nrow = 10)) +
-  mytheme +
-  labs(x = "", y = "Relative Abundance (%)") +
-  facet_grid(cols = vars(Inoculant), rows = vars(N.dosage), scales = "free_y", switch = 'y') +
-  ggtitle("V8-2022")
+# Arrange plots
+ggarrange(plot_v8, plot_vt, ncol = 1, nrow = 2, common.legend = TRUE, legend = "right")
+
