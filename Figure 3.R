@@ -1,4 +1,4 @@
-# Define a function to create the plots for different growth stages
+# I defined a function to create the plots for both growth stages
 create_combined_plot <- function(subsetted_data, title, y_label) {
   combined_plot <- ggplot(subsetted_data, aes(x = N.dosages, y = Potential_N_micro, fill = Genotype)) +
     geom_violin(width = 2.3, trim = FALSE, alpha = 1, position = position_dodge(width = 0.75)) +
