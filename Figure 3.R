@@ -37,7 +37,7 @@ subsetted_data_VT <- PotentialN22_N67_3 %>%
   filter(Growth.stage == "VT")
 
 # Create combined plots for V8 and VT
-combined_plot_V8 <- create_combined_plot(subsetted_data_V8, "V8-2022 Nitrification Potential", expression("Potential Nitrification Rate" ~ "(µg g"^"-1"~ "soil)"))
+combined_plot_V8 <- create_combined_plot(subsetted_data_V8, "V8-2022 Nitrification Potential", expression("Potential Nitrification Rate" ~ " (µg g"^"-1"~ "soil)"))
 combined_plot_VT <- create_combined_plot(subsetted_data_VT, "VT-2022 Nitrification Potential", NULL)
 
 # Arrange plots
