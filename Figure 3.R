@@ -40,8 +40,6 @@ subsetted_data_VT <- PotentialN22_N67_3 %>%
 combined_plot_V8 <- create_combined_plot(subsetted_data_V8, "V8-2022 Nitrification Potential", expression("Potential Nitrification Rate" ~ " (µg g"^"-1"~ "soil)"))
 combined_plot_VT <- create_combined_plot(subsetted_data_VT, "VT-2022 Nitrification Potential", NULL)
 
-# Arrange plots
+# plots
 arranged_plots <- ggarrange(combined_plot_V8, combined_plot_VT, ncol = 2, nrow = 1, common.legend = TRUE, legend = "top")
-
-# Final plot
 arranged_plots
