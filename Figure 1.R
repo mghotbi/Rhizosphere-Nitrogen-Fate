@@ -20,29 +20,42 @@ mm_lefse <- run_lefse(
 plot_cladogram(mm_lefse, color = MG)
 
 ## b)
-top_nested <- nested_top_taxa(
-  VT_N0,
-  top_tax_level = "Phylum",
-  nested_tax_level = "Genus",
-  n_top_taxa = 3,
-  n_nested_taxa = 3,
-  nested_merged_label = "NA and other <tax>"
-)
 
-top_nested$top_taxa %>%
-  mutate(top_abundance = round(top_abundance, 3),
-         nested_abundance = round(nested_abundance, 3)) %>%
-  kable(format = "markdown")
+library(ggplot2)
 
-plot_nested_bar(top_nested$ps_obj,
-                top_level = "Phylum",
-                nested_level = "Genus",
-                nested_merged_label = "NA and other <tax>",
-                legend_title = "Phylum and species") +
-  facet_wrap(~Genotype, scales = "free_x") +
-  labs(title = "Relative abundances of the top 3 Genera for each of the top 3 phyla") +
-  theme(plot.title = element_text(hjust = 0.5, size = 9, face = "bold"),
-        legend.key.size = unit(10, "points"))
+# Subset taxa based on specified Phyla
+top <- subset_taxa(physeqITSsum, Phylum %in% c("Ascomycota", "Basidiomycota", "Mortierellomycota"))
+top <- transform_sample_counts(top, function(OTU) OTU / sum(OTU))
 
+# Agglomerate taxa at the Genus level
+ph.glom <- tax_glom(top, taxrank = "Genus")
+# Prune taxa with no abundance
+ph.glom_1 <- prune_taxa(taxa_sums(ph.glom) > 0, ph.glom)
+ph.glom_C <- tax_glom(ph.glom_1, taxrank = "Genus")
+Genus10 <- names(sort(taxa_sums(ph.glom_C), decreasing = TRUE)[1:20])
+top <- prune_taxa(Genus10, ph.glom_C)
+
+# Rename columns in the tax_table
+colnames(tax_table(top)) <- c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species")
+
+# Plotting
+o <- plot_bar(top, x = "Genotype", fill = "Phylum") +
+  scale_fill_manual(values = MG) +
+  theme_minimal() +
+  theme(legend.position = "bottom", 
+        strip.text.x = element_text(family = "Arial", size = 12, color = "black", face = "bold"),
+        strip.text.y = element_text(family = "Arial", size = 12, color = "black", face = "bold"),
+        strip.background = element_rect(colour = "black", fill = "gray98")) +
+  guides(fill = guide_legend(nrow = 2)) +
+  labs(x = "", y = "Relative abundance (%)") +
+  facet_grid(cols = vars(paste(Inoculant, N.dosages, sep = "_")), 
+             rows = vars(Phylum), 
+             scales = "free_y", switch = 'y') +
+  ggtitle("Dominant Genera Across Genotypes") +
+  theme(plot.title = element_text(size = 16, face = "bold", hjust = 0.5),
+        axis.text = element_text(size = 10),
+        axis.title = element_text(size = 12, face = "bold"))
+
+o
 
 
