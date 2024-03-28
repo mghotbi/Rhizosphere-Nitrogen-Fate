@@ -16,7 +16,7 @@ saveRDS(physeq_rel22, file = "physeq_rel22.rds")
 physeq_rel22 <- readRDS(file = "physeq_rel22.rds")
 
 # Extract Nitrifiers
-Nitrifiers.tax22 <- subset_taxa(physeq_rel22, Genus %in% c("g__Nitrosospira", "g__Candidatus_Nitrososphaera", "g__Nitrososphaeraceae", "s__Nitrospira_japonica", "g__Nitrobacter", "g__Nitrosomonas", "g__Nitrosospira", "g__Nitrospira"))
+Nitrifiers.tax22 <- subset_taxa(physeq_rel22, Genus %in% c("Nitrosospira", "Candidatus_Nitrososphaera", "Nitrososphaeraceae", "Nitrospira_japonica", "Nitrobacter", "Nitrosomonas", "Nitrosospira", "Nitrospira"))
 
 # Subset V8 and VT
 nit_V8 <- subset_samples(Nitrifiers.tax22, Growth.stages == "V8")
