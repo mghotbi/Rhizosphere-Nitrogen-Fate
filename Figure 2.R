@@ -1,4 +1,4 @@
-# Re-build the phyloseq object with the sum of the factors (sum of the replications)
+# Re-build the phyloseq object with the sum of the factors (sum up replications)
 #introduce the Rep as a factor
 Rep<-as.factor(physeq_rel22)$Rep
 #summerize metadata based on replications
