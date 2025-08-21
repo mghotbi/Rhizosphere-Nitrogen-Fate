@@ -32,8 +32,12 @@ Mitra Ghotbi, PhD.
 - Email: mitra.ghotbi@mtsu.edu
 - ORCID ID: [0000-0001-9185-9993](https://orcid.org/0000-0001-9185-9993)
 
-esearch -db sra -query PRJNA1039298 | efetch -format runinfo > RunInfo_PRJNA1039298.csv 
+```r
+esearch -db sra -query PRJNA1039298 | efetch -format runinfo > RunInfo_PRJNA1039298.csv
+
+```
 ---
+
 ![N Fate](https://github.com/mghotbi/Rhizosphere-Nitrogen-Fate/blob/Rhizosphere-nitrogen-fate/GA_AGEE%20(1).png)
 
 **The R codes relevant to each figure have been published here to assist readers in navigating and reproducing them easily.**
@@ -67,5 +71,6 @@ cat("All required packages loaded successfully.\n")
 ```
 
 ---
+
 
 
